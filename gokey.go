@@ -1,7 +1,7 @@
 package gokey
 
 import (
-	"crypto"
+	 "crypto"
 	"crypto/ecdsa"
 	"crypto/rsa"
 	"crypto/x509"
